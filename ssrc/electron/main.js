@@ -8,14 +8,15 @@ function createWindow() {
     mainWindow = new BrowserWindow({
         width: 800,
         height: 600,
-        show: false
+        show: false,
+        title: 'Smash Stream Reactive Control',
+        backgroundColor: '#1e1e24',
+        icon: __dirname + ' /../public/favicon.ico',
+        darkTheme: true, 
     });
 
     // we dont like menus
     mainWindow.removeMenu();
-
-    mainWindow.title = 'Smash Stream Reactive Control'; 
-    mainWindow.setBackgroundColor('#1e1e24'); 
 
     const startURL = isDev ? 'http://localhost:3000' : `file://${path.join(__dirname, '../build/index.html')}`;
 

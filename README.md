@@ -1,7 +1,9 @@
 ![preview](https://cdn.discordapp.com/attachments/574303886869790730/700308095779340298/unknown.png)
-# RoA Stream Control
+# Smash Stream Reactive Control
 
-So you want to do a Rivals of Aether stream, huh? Well, today is your lucky day, because I have done tons of work so you don’t have to! With this, you will be able to set up a RoA tournament oriented stream in no time.
+You want the ultimate streamer experience for Ultimate? You can  Well, today is your lucky day, because I have done tons of work so you don’t have to! With this, you will be able to set up a RoA tournament oriented stream in no time.
+
+Stream controller based on [the original](https://github.com/Readek/RoA-Stream-Control) from [@Readek](https://github.com/Readek) for Rivals of Aether.
 
 ---
 
