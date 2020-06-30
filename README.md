@@ -5,6 +5,8 @@ You want the ultimate streamer experience for Ultimate? You can  Well, today is 
 
 Stream controller based on [the original](https://github.com/Readek/RoA-Stream-Control) from [@Readek](https://github.com/Readek) for Rivals of Aether.
 
+The different stocks icons can be found at [The Spriters Resource](https://www.spriters-resource.com/nintendo_switch/supersmashbrosultimate/sheet/111395/), stock icons ripped by Random Talking Bush
+
 ---
 
 ## Features
